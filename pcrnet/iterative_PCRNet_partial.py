@@ -20,7 +20,7 @@ import transforms3d.euler as t3d
 parser = argparse.ArgumentParser()
 parser.add_argument('-mode','--mode', required=True, type=str, default='no_mode', help='mode: train or test')
 parser.add_argument('-log','--log_dir', required=True, default='log_itrPCRNet', help='Log dir [default: log]')
-parser.add_argument('-results','--results', required=True, type=str, default='best_model', help='Store the best model')
+parser.add_argument('-results','--results', required=False, type=str, default='best_model', help='Store the best model')
 parser.add_argument('-noise','--use_noise_data', type=str, required=True, default='False', help='Use of Noise in source data in training')
 parser.add_argument('-partial','--use_partial_data', type=str, default='True', help='Use of Partial Data for Registration')
 parser.add_argument('-sparse','--use_sparse_data', type=str, default='False', help='Use of Vertices Data for Registration')

@@ -1,4 +1,4 @@
-# One Framework to Register Them All
+# One Framework to Register Them All: PointNet Encoding for Point Cloud Alignment
 
 **[[Paper]](https://arxiv.org/abs/1912.05766)**
 

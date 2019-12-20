@@ -30,3 +30,6 @@ Download pretrained models from [Link](https://drive.google.com/drive/folders/1o
 #### Train PCRNet:
 1. chmod +x train_PCRNet.sh
 2. ./train_PCRNet.sh
+
+#### Train Partial PCRNet:
+1. python iterative_PCRNet_partial.py --mode train --log log_partial --use_noise_data True
