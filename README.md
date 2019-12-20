@@ -5,7 +5,7 @@
 Source Code Author: Vinit Sarode, Xueqian Li and Animesh Dhagat
 
 <p align="center">
-	<img src="https://github.com/vinits5/pointnet-registration-framework/blob/master/images/flowchart.png" height="300">
+	<img src="https://github.com/vinits5/pointnet-registration-framework/blob/master/images/flowchart.png" height="500">
 </p>
 
 ### Point Cloud Registration Network:
