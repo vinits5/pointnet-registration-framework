@@ -27,6 +27,8 @@ Path for dataset: [Link](https://drive.google.com/drive/folders/19X68JeiXdeZgFp3
 2. chmod +x train_itrPCRNet.sh
 3. ./train_itrPCRNet.sh
 
+[Note: PCRNet's pytorch implementation is also available at [[Link](https://github.com/vinits5/pcrnet_pytorch)].
+
 ### PointNetLK:
 #### Train PointNetLK:
 1. cd pnlk
